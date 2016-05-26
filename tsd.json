@@ -13,6 +13,9 @@
     },
     "form-data/form-data.d.ts": {
       "commit": "8d252184e421915fbc9f56a5debcb098e0d2d68d"
+    },
+    "nconf/nconf.d.ts": {
+      "commit": "edb64e4a35896510ce02b93c0bca5ec3878db738"
     }
   }
 }

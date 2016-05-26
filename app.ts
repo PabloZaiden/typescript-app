@@ -1,4 +1,8 @@
+import nconf = require('nconf');
+
 export class App {
+    private static config = nconf.env().argv().file('config', 'config.json');
+    
     static main(args : string[]) {
         console.log('Hello world!')
     }
