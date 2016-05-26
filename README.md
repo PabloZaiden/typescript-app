@@ -2,5 +2,5 @@
 Base Typescript app
 
 ## Install new package:
-    `npm install <package-name> --save`
-    `package-to-tsd`
+npm install <package-name> --save
+package-to-tsd
